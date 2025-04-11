@@ -1,2 +1,3 @@
-malicious_phish.csv
+*.csv
 bfg.jar
+*.joblib
